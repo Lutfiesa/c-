@@ -1,0 +1,13 @@
+E:\Pelatihan\gradebook2\src\gradebook2\bin\Debug\netcoreapp3.1\gradebook2.exe
+E:\Pelatihan\gradebook2\src\gradebook2\bin\Debug\netcoreapp3.1\gradebook2.deps.json
+E:\Pelatihan\gradebook2\src\gradebook2\bin\Debug\netcoreapp3.1\gradebook2.runtimeconfig.json
+E:\Pelatihan\gradebook2\src\gradebook2\bin\Debug\netcoreapp3.1\gradebook2.runtimeconfig.dev.json
+E:\Pelatihan\gradebook2\src\gradebook2\bin\Debug\netcoreapp3.1\gradebook2.dll
+E:\Pelatihan\gradebook2\src\gradebook2\bin\Debug\netcoreapp3.1\gradebook2.pdb
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.csprojAssemblyReference.cache
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.AssemblyInfoInputs.cache
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.AssemblyInfo.cs
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.csproj.CoreCompileInputs.cache
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.dll
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.pdb
+E:\Pelatihan\gradebook2\src\gradebook2\obj\Debug\netcoreapp3.1\gradebook2.genruntimeconfig.cache
